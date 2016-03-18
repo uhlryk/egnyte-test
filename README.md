@@ -1,8 +1,11 @@
-# Run it Online
+# Run it in htmlpreview.github.io
 
 [link](http://htmlpreview.github.io/?https://github.com/uhlryk/egnyte-test/blob/master/dist/index.html)
     
-# Run it Offline
+There are some problems with running this app in htmlpreview.github.io . It works only on chrome.
+If you want to run this on other browsers please check below instruction.
+    
+# Run it normal
 
 ## Installation:
 
