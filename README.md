@@ -1,3 +1,9 @@
+# Run it Online
+
+[link](http://htmlpreview.github.io/?https://github.com/uhlryk/egnyte-test/blob/master/dist/index.html)
+    
+# Run it Offline
+
 ## Installation:
 
   npm install
