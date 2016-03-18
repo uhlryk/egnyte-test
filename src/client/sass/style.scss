@@ -1,0 +1,31 @@
+@import "compass";
+@import "compass/reset";
+@import "bootstrap";
+
+.scalecheckbox {
+  -ms-transform: scale(1.4); /* IE */
+  -moz-transform: scale(1.4); /* FF */
+  -webkit-transform: scale(1.4); /* Safari and Chrome */
+  -o-transform: scale(1.4); /* Opera */
+}
+
+.element {
+  &__forminput {
+    margin-right:10px;
+  }
+  &__formbutton {
+    @extend .btn;
+    margin-right:10px;
+  }
+  &__checkbox {
+    @extend .scalecheckbox;
+  }
+  &__label {
+    padding:6px;
+  }
+}
+.actionbar {
+  &__checkbox {
+    @extend .scalecheckbox;
+  }
+}
